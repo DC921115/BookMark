@@ -9,6 +9,8 @@
 | [awesome-android](https://github.com/JStumpp/awesome-android)| Android 开源资料库|
 | [awesome](https://github.com/sindresorhus/awesome)|一个大而全的开源资料库|
 | [opensource](https://github.com/programthink/opensource) | 【编程随想】收藏的开源项目清单C++和Python |
+| [electron](https://github.com/electron/electron) |  一个将web页面集成app的大型开源项目|
+| [mongotron](https://github.com/officert/mongotron) | 一个跨平台的mongodb数据管理工具 |
 
 
 ### ReactJs
@@ -29,3 +31,5 @@
 | [angular-cli](https://github.com/angular/angular-cli) | angular2项目官方推荐构建工具|
 | [quill](https://github.com/quilljs/quill) | 一个出色的富文本编辑器 |
 | [ngx-quill-editor](https://github.com/surmon-china/ngx-quill-editor)| 一个专为 angular2 封装的quill-editor |
+| [vue2-manage](https://github.com/bailicangdu/vue2-manage) | 基于ElementUI 构建的饿了么后台管理系统 |
+| [vue2-elm](https://github.com/bailicangdu/vue2-elm) | 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 |
