@@ -33,3 +33,10 @@
 | [ngx-quill-editor](https://github.com/surmon-china/ngx-quill-editor)| 一个专为 angular2 封装的quill-editor |
 | [vue2-manage](https://github.com/bailicangdu/vue2-manage) | 基于ElementUI 构建的饿了么后台管理系统 |
 | [vue2-elm](https://github.com/bailicangdu/vue2-elm) | 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 |
+
+
+### Python
+
+| 项目    | 描述      |
+| :------------- | :------------- |
+| [python-1](https://github.com/Tim9Liu9/TimLiu-Python) | python资源集合与开源硬件 |
