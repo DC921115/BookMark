@@ -24,8 +24,6 @@
 
 | 项目    | 描述      |
 | :------------- | :------------- |
-| [awesome-angular](https://github.com/AngularClass/awesome-angular)| 一个angular2 的开源资料库 |
-| [ng2-admin](https://github.com/akveo/ng2-admin) | 一个angular2 的后台管理端，可以当作项目基本框架使用 |
 | [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) |猫的前端回忆录  |
 | [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | 一个js的图片预览框架，放大，滑动浏览等 |
 | [angular-cli](https://github.com/angular/angular-cli) | angular2项目官方推荐构建工具|
@@ -40,3 +38,20 @@
 | 项目    | 描述      |
 | :------------- | :------------- |
 | [python-1](https://github.com/Tim9Liu9/TimLiu-Python) | python资源集合与开源硬件 |
+
+
+### angular2
+| 项目    | 描述      |
+| :------------- | :------------- |
+| [awesome-angular](https://github.com/AngularClass/awesome-angular)| 一个angular2 的开源资料库 |
+| [ng2-admin](https://github.com/akveo/ng2-admin) | 一个angular2 的后台管理端，可以当作项目基本框架使用 |
+| [Angular Material 2](https://github.com/angular/material2) | angular官方出品 |
+| [PrimeNG](https://github.com/primefaces/primeng) | 组件最丰富的angular ui,视觉效果稍显不足 |
+| [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) | 使用最多的angular ui,依赖于bootstrap项目 |
+| [Kendo UI for Angular](https://github.com/telerik/kendo-angular)| 优秀的angular2 ui库 |
+| [ng-lightning](https://github.com/ng-lightning/ng-lightning) | 了解但不熟悉的ui库 |
+| [fuel-ui](https://github.com/FuelInteractive/fuel-ui) | 了解但不熟悉的ui库,请自行使用 |
+| [ani-angular-2模板](https://github.com/start-angular/ani-angular-2) | 一个angular2 的模板，可以当作项目基本框架使用|
+| [SB-Admin-BS4-Angular-4](https://github.com/start-angular/SB-Admin-BS4-Angular-4) |angular4 的模板 |
+| [NiceFish](http://git.oschina.net/mumu-osc/NiceFish)| 不做评价 |
+| [ionic](https://github.com/driftyco) | 最火的的跨平台混合式app开发框架 |
